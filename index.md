@@ -3,3 +3,7 @@
 ```
 # I think I'm adding a Python comment?
 ```
+## Do I add my markdown here?
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world!
